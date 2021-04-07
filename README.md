@@ -13,7 +13,6 @@
 
 <p>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=opeerator&show_icons=true&hide_border=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opeerator&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 ** Github does not host all of my coding & research activities due to [this](https://techcrunch.com/2019/07/29/github-ban-sanctioned-countries/). Please contact me if you are intrested to know my other contributions.
