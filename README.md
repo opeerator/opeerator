@@ -11,8 +11,4 @@
 - 👯 I’m looking to collaborate on Django
 - 🤔 I’m looking for help with Reinforcement Learning (Gym)
 
-<p>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=opeerator&show_icons=true&hide_border=true" />
-</p>
-
 ** Github does not host all of my coding & research activities due to [this](https://techcrunch.com/2019/07/29/github-ban-sanctioned-countries/). Please contact me if you are intrested to know my other contributions.
