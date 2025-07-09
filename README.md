@@ -27,17 +27,6 @@ I'm a full-stack engineer and HRI researcher with over 6 years of experience acr
   Databases:    PostgreSQL, MySQL, MongoDB, Redis
   Tools:        Git, Jira, Asana, Expo, Swagger, Cypress, Mocha
 ```
-## 🎓 Education
-
-- **University of Waterloo**  
-  Master of Applied Science (M.A.Sc.), Computer Engineering  
-  _Specialized in Pattern Analysis and Machine Intelligence_  
-
-- **Azad University**  
-  Bachelor of Engineering, Computer Engineering  
-  _Specialized in Software Engineering and Machine Learning_  
-
----
 
 ## 🔗 Let’s Connect
 
