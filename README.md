@@ -34,4 +34,4 @@ I'm a full-stack engineer and HRI researcher with over 6+ years of experience ac
 - 🌐 Website: [aliyamini.com](https://aliyamini.com)
 - 💼 LinkedIn: [linkedin.com/in/ali-yamini](https://www.linkedin.com/in/ali-yamini/)
 
-** THIS repo does not contain most of my work, please let me know so I can share :)
+** THIS account does not contain most of my work, please let me know so I can share :)
