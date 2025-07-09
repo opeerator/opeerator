@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ali
 
-I'm a full-stack engineer and HRI researcher with over 6 years of experience across startups, academia, and enterprise software. I specialize in building robust backend and frontend systems and hardware-integrated robotics solutions. My research work spans from autonomous drone navigation to clinical social robots.
+I'm a full-stack engineer and HRI researcher with over 6+ years of experience across startups, academia, and enterprise software. I specialize in building robust backend and frontend systems and hardware-integrated robotics solutions. My research work spans from autonomous drone navigation to clinical social robots.
 
 [![Email Badge](https://img.shields.io/badge/Gmail-be5542?style=flat-square&logo=gmail&logoColor=white)](mailto:ali.yamini@uwaterloo.ca)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ali-yamini/)
