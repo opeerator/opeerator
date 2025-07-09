@@ -31,5 +31,5 @@ I'm a full-stack engineer and HRI researcher with over 6+ years of experience ac
 ## 🔗 Let’s Connect
 
 - 📫 Email: [ali.yamini@uwaterloo.ca](mailto:ali.yamini@uwaterloo.ca)
-- 🌐 Portfolio: [aliyamini.com](https://aliyamini.com)
+- 🌐 Website: [aliyamini.com](https://aliyamini.com)
 - 💼 LinkedIn: [linkedin.com/in/ali-yamini](https://www.linkedin.com/in/ali-yamini/)
