@@ -32,12 +32,10 @@ I'm a full-stack engineer and HRI researcher with over 6 years of experience acr
 - **University of Waterloo**  
   Master of Applied Science (M.A.Sc.), Computer Engineering  
   _Specialized in Pattern Analysis and Machine Intelligence_  
-  **GPA:** 3.6 / 4.0
 
 - **Azad University**  
   Bachelor of Engineering, Computer Engineering  
   _Specialized in Software Engineering and Machine Learning_  
-  **GPA:** 3.85 / 4.0
 
 ---
 
